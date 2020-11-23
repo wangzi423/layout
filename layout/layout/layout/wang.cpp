@@ -1,0 +1,5 @@
+#include "wang.h"
+
+
+
+
